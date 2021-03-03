@@ -1,0 +1,16 @@
+{
+  "name": "portfolio2021",
+  "version": "1.0.0",
+  "description": "Portfolio de Maxime Isambert",
+  "main": "dev/scripts.js",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "parcel watch dev/scripts.js --out-dir prod/"
+  },
+  "author": "",
+  "license": "ISC"
+}
